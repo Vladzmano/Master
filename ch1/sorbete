@@ -1,0 +1,18 @@
+cliente = ['jimmy','Kim','Jhon','Stacie']
+
+vencedor = random.choice(customers)
+
+sabor = 'baunilha'
+
+print('parabens'+ vencedor + 'voce ganhouum sundae!')
+
+prompt = 'voce quer uma ceraj em cima? '
+
+quer_cereja + imput(prompt)
+
+pedido = 'sundae de '+ sabor
+
+if (quer_cereja == 'sim'):
+	pedido = pedido + ' com uma seraj em cima'
+
+print('Um ' + pedido + ' para ' + vencedor + ' saindo ...')
